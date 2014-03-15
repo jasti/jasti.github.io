@@ -1,0 +1,12 @@
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+name: Vamsee Jasti
+blog_name: Sent from my ipod
+url: jasti.github.io
+description: Ramble on
+twitter: vamseejasti
+github: jasti

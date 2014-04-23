@@ -44,7 +44,7 @@ Save the file and run
 node nodeserver.js
 {% endhighlight %}
 
-And just like that, you have your own little test webserver. Create a file called index.html in the same folder and go nuts with linking other HTML/JavaScript files in there.
+And just like that, you have your own little test webserver by navigating to localhost:8124/ . Create a file called index.html in the same folder and go nuts with linking other HTML/JavaScript files in there.
 I love the simplicity of node in creating this webserver because almost everything you would usually configure in a webserver is right here in front of your eyes. Having said that, this is obviously an abstraction and there is a ton of other things going on in the 'createServer' statement which i don't get, but that is a topic for another day.
 
 Also, if node has piqued your interest, i highly recommend checking out <a href ="https://github.com/remy/nodemon">nodemon</a> , which basically looks at all your files under the directory and restarts the server on file changes automatically, so you don't have to go back to the browser and press ALT+R like you are having a seizure.

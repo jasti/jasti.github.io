@@ -1,4 +1,4 @@
 jasti.github.io
 ===============
-Thoughts and silliness accessible @ jasti.github.io
+Thoughts, nerdery & silliness @ jasti.github.io || vamseejasti.com
 

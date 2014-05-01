@@ -1,0 +1,15 @@
+---
+layout: post
+title: Empathy
+category: posts
+---
+
+I am appalled at the difference in API usability between an API developed for B2B (Business to Business) vs. one developed for B2C (Business to Customer). A good example of a B2B API in the finance world is the <a href ="http://www.swift.com/products_services/by_type/messaging/index">15022 swift messaging</a> ( primarily used for communication between two financial institutions) which look like a 5 year old's half eaten bowl of spaghetti. Compare that to a B2C API like  <a href ="https://parse.com/docs/rest">Parse</a> ( A Backend as a service application) which has a beautifully designed API which is a pleasure to work with as a developer. 
+
+The biggest reason for this huge disparity? Developer empathy. 
+
+The person who designed and built Parse's API is able to empathize with her customer base and easily able to step into his customer's shoes to ask the all important question - "What would I like to see in this API?" . On the other hand, when a company needs to introduce a business analyst to "translate requirements" for the developer, the developer is no longer able to relate to the product anymore and is less motivated to build a kick-ass product. Not to mention the things that get lost in translation when you start involving a business analyst. As an aside, I strongly feel that everybody who considers themselves part of the tech department must be able to program. Programming languages are so easy nowadays and there are so many resources online that anyone should be able to at least checkout, change some lines of code and commit to staging. Heck, maybe even prod. This reduces the back and forth cycle of "Can you please restrict this report to weekdays?" type of questions by at least half. Allows both developer and BA to be on the same page and allows tighter iterations of the product. Anyway, I digress.
+
+I notice a new trend in the way products are built at consumer-facing tech companies. Companies are trying to <a href="http://en.wikipedia.org/wiki/Eating_your_own_dog_food"> dog food </a> their products as much as possible. The term was coined at Google, but I think a lot more companies are driving the concept home right from building the actual <a href ="https://www.gmail.com">product</a> that the developer could be a business customer of, to exposing APIs at the <a href ="https://cloud.google.com/ ">hardware</a> level as well. Anyone who has worked as a software engineer knows how unglamorous sysadmin / dev ops can be. Making products like Google Cloud and Amazon AWS available for public developers / customers, the companies are inherently making these businesses sexy by becoming revenue generating and as an added bonus giving the company a QA base that is as big as their customer base. Internal product developers empathize with the products they build. 
+
+Products obviously need to get built even if they are not customer facing and companies need to start thinking about introducing developer empathy in the B2B world. Simplifying standards and treating the end consumers of the businesses, not as businesses, but as individual developers. 

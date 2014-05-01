@@ -4,7 +4,7 @@ title: Empathy
 category: posts
 ---
 
-I am appalled at the difference in API usability between an API developed for B2B (Business to Business) vs. one developed for B2C (Business to Customer). A good example of a B2B API in the finance world is the <a href ="http://www.swift.com/products_services/by_type/messaging/index">15022 swift messaging</a> ( primarily used for communication between two financial institutions) which look like a 5 year old's half eaten bowl of spaghetti. Compare that to a B2C API like  <a href ="https://parse.com/docs/rest">Parse</a> ( A Backend as a service application) which has a beautifully designed API which is a pleasure to work with as a developer. 
+I am appalled at the difference in API usability between an API developed for B2B (Business to Business) vs. one developed for B2C (Business to Customer). A good example of a B2B API in the finance world is the <a href ="http://www.swift.com/products_services/by_type/messaging/index">15022 swift messaging</a> (primarily used for communication between two financial institutions) which look like a 5 year old's half eaten bowl of spaghetti. Compare that to a B2C API like  <a href ="https://parse.com/docs/rest">Parse</a> (a Backend as a service application) which has a beautifully designed API which is a pleasure to work with as a developer. 
 
 The biggest reason for this huge disparity? Developer empathy. 
 

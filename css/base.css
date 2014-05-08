@@ -97,8 +97,8 @@ a {
 
 .content {
 	max-width: 750px;
-	margin-left: 130px;
-	margin-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
 	margin-bottom: 50px;
 }
 

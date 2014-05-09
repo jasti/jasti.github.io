@@ -309,3 +309,10 @@ a {
 .content .talk-design .color .white {
 	color: #fff;
 }
+
+#disqus_thread{
+	max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 50px;
+}

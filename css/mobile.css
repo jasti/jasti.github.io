@@ -10,7 +10,8 @@
     .sidebar .name #fname, .sidebar .name #lname {
       font-size: 25px; }
   .sidebar .meta {
-    display: none; }
+    display: none; 
+    margin: 0; }
   .sidebar ul {
     padding: 25px; }
   .sidebar li {

@@ -45,10 +45,25 @@ I use the <a href ="https://www.google.com/fonts/specimen/Oxygen">Oxygen</a> fon
 
 This is probably just me but I feel anxious when there are a ton of links on a page I want to read. It feels like an unattended to-do list that can be checked off by clicking on the links. Naturally I want to avoid them as much as possible, but I also want the ability to give the user a deeper experience <i>if they choose to</i>. Played around with some CSS and ended up with all links in a bolded format which I think is less distracting instead of the default underlined blue link. 
 
-I use <a href ="http://pygments.org/">Pygments</a> for syntax highlighting. It's simple and does the job.
+I use <a href ="http://pygments.org/">Pygments</a> for syntax highlighting. It's simple and does the job. Example below:
 
-<img src="/images/blog/pygments.png"/>
+{% highlight javascript %}
+var http = require('http');
+var fs = require('fs');
 
+fs.readFile('index.html', function (err, html) {   // Your html test file
+
+
+    if (err) {
+        throw err;
+    }
+    http.createServer(function(request, response) {
+        response.writeHeader(200, {"Content-Type": "text/html"});  \
+        response.write(html); 
+        response.end();
+    }).listen(8124, '127.0.0.1');
+});
+{% endhighlight %}
 
 <h2>Responsive</h2>
 The site is responsive and renders appropriately for screens of smaller resolutions by just loading the mobile.css instead of base.css from the css folder. No magic there.

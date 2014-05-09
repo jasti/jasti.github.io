@@ -14,7 +14,7 @@ By posting or transferring content to Medium, you give us permission to use your
 </blockquote>
 <br>
  
-There are some other obvious reasons to avoid blogging sites. They <a href ="http://en.wikipedia.org/wiki/Posterous#Shutting_down_Posterous_and_building_PostHaven">shut down</a> taking all your permalinks with them. Switching costs of blog sites are quite high because they make it deliberately hard to export content. Most of them need quite a bit of tweaking to display selectable code snippets or things like quotes.
+There are some other obvious reasons to avoid blogging sites. If they <a href ="http://en.wikipedia.org/wiki/Posterous#Shutting_down_Posterous_and_building_PostHaven">shut down</a> taking all your permalinks with them. Switching costs of blog sites are quite high because they make it deliberately hard to export content. Most of them need quite a bit of tweaking to display selectable code snippets or things like quotes.
 
 I started using <a href ="http://www.sublimetext.com/">Sublime Text</a> for programming about a year ago and it has been a total game-changer. If you are a programmer, you'll feel right at home, like you are typing on the command line. Especially if you use the <a href = "https://github.com/buymeasoda/soda-theme/">Soda-theme</a>. I like the ability to do most of the things I want to from the command line or Sublime without having to deal with clunky pixelated user interfaces. The ability to write a blog like we build software - iteratively, with source control and experimentation was a huge requirement.
 
@@ -25,8 +25,8 @@ Ultimately, the ability to experiment, learn and build new UI features on your s
 
 
 <h2>Jekyll</h2>
-I started with Zach Holman's <a href ="https://github.com/holman/left">left theme</a> to work off of a seasoned Jekyll theme. There is no point re-inventing the wheel for this. Yoda once said (or did he?) "If you don't know your destination, it is better to walk sideways or backwards than walking forward". I ended tweaking it to my liking and the biggest change you might notice is in the way the site is layed out and how it looks on mobile.
-Using Jekyll's lightly document 'watch' commmand, you can make edits in your editor and have jekyll reload 
+I started with Zach Holman's <a href ="https://github.com/holman/left">left theme</a> to work off of a seasoned Jekyll theme. There is no point re-inventing the wheel for this. Yoda once said (or did he?) "If you don't know your destination, it is better to walk sideways or backwards than walking forward." I ended tweaking it to my liking and the biggest change you might notice is in the way the site is laid out and how it looks on mobile.
+Using Jekyll's lightly document 'watch' commmand, you can make edits in your editor and have jekyll reload:
 
 {% highlight python %}
 # '-watch' instead of '-w' woudn't autogenerate files for some reason
@@ -36,14 +36,14 @@ jekyll serve -w
 
 <h2>GitHub Pages</h2>
 Hosting a site of your own has never been easier. All you need is a Github account and a <a href ="https://github.com/jasti/jasti.github.io"> repository</a> to publish your static site. It becomes easier if you plan to use Jekyll because Github will do the site generation bit for you directly serve up the generated HTML and JS.
-By default, the site is available at, in my case, at jasti.github.com which gets forwarded to <a href ="http://vamseejasti.com">vamseejasti.com</a> . To make this happen, it just takes one line in the  <a href ="http://en.wikipedia.org/wiki/CNAME_record">CNAME</a> file that goes with your static site and Github will replace *.github.io with your custom domain name.
+By default, the site is available, in my case, at jasti.github.com which gets forwarded from<a href ="http://vamseejasti.com">vamseejasti.com</a> . To make this happen, it just takes one line in the  <a href ="http://en.wikipedia.org/wiki/CNAME_record">CNAME</a> file that goes with your static site and Github will replace *.github.io with your custom domain name.
 If you plan to use a domain manager to buy a site, I recommend <a href ="https://iwantmyname.com/">iwantmyname.com</a> and has a one click DNS forwarding with Github. 
 
 <h2>Design</h2>
 Icons are built with <a href ="http://fortawesome.github.io/Font-Awesome/">Font Awesome</a>. The icons are all vector graphics, which look good on any screen resolution and a lot of the compatibility issues are handled for you.
-I use the <a href ="https://www.google.com/fonts/specimen/Oxygen">Oxygen</a> font for all the content and <a href ="http://www.google.com/fonts/specimen/Lobster">Lobster</a> for a header from google fonts.
+I use the <a href ="https://www.google.com/fonts/specimen/Oxygen">Oxygen</a> font for all the content and <a href ="http://www.google.com/fonts/specimen/Lobster">Lobster</a> for a header from Google fonts.
 
-This is probably just me but I feel anxious when there are a ton of links on a page I want to read. It feels like an unattended todo list that can be checked off by clicking on the links. Naturally i want to avoid them as much as possible, but I also want the ability to give the user a deeper experience <i>if they choose to</i>. Played around with some CSS and ended up with all links in a bolded format which I think is less distracting instead of the default underlined blue link. 
+This is probably just me but I feel anxious when there are a ton of links on a page I want to read. It feels like an unattended to-do list that can be checked off by clicking on the links. Naturally I want to avoid them as much as possible, but I also want the ability to give the user a deeper experience <i>if they choose to</i>. Played around with some CSS and ended up with all links in a bolded format which I think is less distracting instead of the default underlined blue link. 
 
 I use <a href ="http://pygments.org/">Pygments</a> for syntax highlighting. It's simple and does the job.
 
@@ -69,7 +69,7 @@ I have stripped out my site and created an open source template of the site. So 
 
 You'll find the source on Github : <a href ="https://github.com/jasti/stout">Stout</a>
 
-If you plan to use it, I'd be happy if you gave me a shout on <a href="https://twitter.com/vamseejasti" target="_blank"><i class="icon icon-twitter"></i></a>. I'd still be happy if you didn't tell me, but whatever you do, do not forget the second rule of fightclub.
+If you plan to use it, I'd be happy if you gave me a shout on <a href="https://twitter.com/vamseejasti" target="_blank"><i class="icon icon-twitter"></i></a>. I'd still be happy if you didn't tell me, but whatever you do, do not forget the second rule of Fight Club.
 
 <blockquote>
 I've already got the prize. The prize is the pleasure of finding the thing out, the kick in the discovery, the observation that other people use it. Those are the real things. - <a href ="https://www.youtube.com/watch?v=Bgaw9qe7DEE#t=1466">Richard Feynman</a>

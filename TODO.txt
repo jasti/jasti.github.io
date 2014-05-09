@@ -1,5 +1,3 @@
-# Some fonts appearing differently on windows vs mac
 # Image missing when saving blog to home screen 
-# Integrate google analytics
 # Open RSS feed
-# Show twitter feed 
+#favicon.ico

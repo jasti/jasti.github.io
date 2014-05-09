@@ -4,7 +4,7 @@ title: Blog
 category: posts
 ---
 
-Writing here has gotten me thinking more deeply about things I come across everyday. Talking comes naturally to me and I can spend days having conversations with friends with no real agenda, but I am not as good at writing concrete material and I wanted to work towards changing that. Thinking while speaking with someone usually gets me down to a level or two, but writing down forces me  solidify my reflection on a thought. It's also gotten me to re-read what I create multiple number of times, which is a great patience builder. Plus it's always a good feeling to hear back from that one angel of a reader who emails you to tell you how she found your technical article helpful.
+Writing here has gotten me thinking more deeply about things I come across everyday. Talking comes naturally to me and I can spend days having conversations with friends with no real agenda, but I am not as good at writing concrete material and I wanted to work towards changing that. Thinking while speaking with someone usually gets me to a level or two, but writing down forces me to solidify my reflection on a thought. It's also gotten me to re-read what I create multiple number of times, which is a great patience builder. Plus it's always a good feeling to hear back from that one angel of a reader who emails you to tell you how she found your technical article helpful.
 
 Blog sites like Medium and Tumblr have come a long way with <a href ="http://en.wikipedia.org/wiki/WYSIWYG">WYSIWYG</a> but they all claim to do whatever they want with your content, including monetize. Not to say that I won't write for free, I will, but at my terms.
 
@@ -14,7 +14,7 @@ By posting or transferring content to Medium, you give us permission to use your
 </blockquote>
 <br>
  
-There are some other obvious reasons to avoid blogging sites. If they <a href ="http://en.wikipedia.org/wiki/Posterous#Shutting_down_Posterous_and_building_PostHaven">shut down</a> taking all your permalinks with them. Switching costs of blog sites are quite high because they make it deliberately hard to export content. Most of them need quite a bit of tweaking to display selectable code snippets or things like quotes.
+There are some other obvious reasons to avoid blogging sites. If they <a href ="http://en.wikipedia.org/wiki/Posterous#Shutting_down_Posterous_and_building_PostHaven">shut down</a> they take all your permalinks with them. Switching costs of blog sites are quite high because they make it deliberately hard to export content. Most of them need quite a bit of tweaking to display selectable code snippets or things like quotes.
 
 I started using <a href ="http://www.sublimetext.com/">Sublime Text</a> for programming about a year ago and it has been a total game-changer. If you are a programmer, you'll feel right at home, like you are typing on the command line. Especially if you use the <a href = "https://github.com/buymeasoda/soda-theme/">Soda-theme</a>. I like the ability to do most of the things I want to from the command line or Sublime without having to deal with clunky pixelated user interfaces. The ability to write a blog like we build software - iteratively, with source control and experimentation was a huge requirement.
 

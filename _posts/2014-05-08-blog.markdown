@@ -4,7 +4,7 @@ title: Blog
 category: posts
 ---
 
-Writing here has gotten me thinking more deeply about things I come across everyday. Talking comes naturally to me and I can spend days having conversations with friends with no real agenda, but I am not as good at writing concrete material and I wanted to work towards changing that. Thinking while speaking with someone usually gets me to a level or two, but writing down forces me to solidify my reflection on a thought. It's also gotten me to re-read what I create multiple number of times, which is a great patience builder. Plus it's always a good feeling to hear back from that one angel of a reader who emails you to tell you how she found your technical article helpful.
+Writing here has gotten me thinking more deeply about things I come across everyday. Talking comes naturally to me and I can spend days having conversations with friends with no real agenda, but I am not as good at writing concrete material and I wanted to work towards changing that. Thinking while speaking with someone usually gets me to a level or two, but writing down forces me to solidify my reflection on a thought. It's gotten me to re-read what I create multiple number of times, which is a great patience builder. Plus it's always a good feeling to hear back from that one angel of a reader who emails you to tell you how she found your technical article helpful.
 
 Blog sites like Medium and Tumblr have come a long way with <a href ="http://en.wikipedia.org/wiki/WYSIWYG">WYSIWYG</a> but they all claim to do whatever they want with your content, including monetize. Not to say that I won't write for free, I will, but at my terms.
 
@@ -18,14 +18,14 @@ There are some other obvious reasons to avoid blogging sites. If they <a href ="
 
 I started using <a href ="http://www.sublimetext.com/">Sublime Text</a> for programming about a year ago and it has been a total game-changer. If you are a programmer, you'll feel right at home, like you are typing on the command line. Especially if you use the <a href = "https://github.com/buymeasoda/soda-theme/">Soda-theme</a>. I like the ability to do most of the things I want to from the command line or Sublime without having to deal with clunky pixelated user interfaces. The ability to write a blog like we build software - iteratively, with source control and experimentation was a huge requirement.
 
-When I decided to write, the obvious choice was to go with a <a href ="http://staticsitegenerators.net/" > Static Site Generator</a> and since I was building a rails site for a friend's startup, I decided to go with <a href ="http://jekyllrb.com/">Jekyll </a>. After tweaking it quite a bit, I finally have something that I am quite happy with.
-Ultimately, the ability to experiment, learn and build new UI features on your site feels quite rewarding. 
+When I decided to write, i started to research and the obvious pick was to use a <a href ="http://staticsitegenerators.net/" >Static Site Generator</a> and since I was building a rails site for a friend's startup, I decided to go with <a href ="http://jekyllrb.com/">Jekyll </a>. After hacking on it for a couple of weekends, I finally have something that I am quite happy with.
+Ultimately, the ability to experiment, learn and see your new features come to fruition instantly, feels quite rewarding. 
 
 <img src="/images/blog/sublime.png"/>
 
 
 <h2>Jekyll</h2>
-I started with Zach Holman's <a href ="https://github.com/holman/left">left theme</a> to work off of a seasoned Jekyll theme. There is no point re-inventing the wheel for this. Yoda once said (or did he?) "If you don't know your destination, it is better to walk sideways or backwards than walking forward." I ended tweaking it to my liking and the biggest change you might notice is in the way the site is laid out and how it looks on mobile.
+I started with Zach Holman's <a href ="https://github.com/holman/left">left theme</a> to work off of a seasoned Jekyll theme. There is no point re-inventing the wheel for this. Yoda once said (or did he?) "If you don't know your destination, it's best to walk sideways or backwards than walking forward." I ended tweaking it to my liking and the biggest change you might notice is in the way the site is laid out and how it looks on mobile.
 Using Jekyll's lightly document 'watch' commmand, you can make edits in your editor and have jekyll reload:
 
 {% highlight python %}

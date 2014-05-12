@@ -36,7 +36,7 @@ jekyll serve -w
 
 <h2>GitHub Pages</h2>
 Hosting a site of your own has never been easier. All you need is a Github account and a <a href ="https://github.com/jasti/jasti.github.io"> repository</a> to publish your static site. It becomes easier if you plan to use Jekyll because Github will do the site generation bit for you directly serve up the generated HTML and JS.
-By default, the site is available, in my case, at jasti.github.com which gets forwarded from<a href ="http://vamseejasti.com">vamseejasti.com</a> . To make this happen, it just takes one line in the  <a href ="http://en.wikipedia.org/wiki/CNAME_record">CNAME</a> file that goes with your static site and Github will replace *.github.io with your custom domain name.
+By default, the site is available, in my case, at jasti.github.com which gets forwarded from <a href ="http://vamseejasti.com">vamseejasti.com</a>. To make this happen, it just takes one line in the  <a href ="http://en.wikipedia.org/wiki/CNAME_record">CNAME</a> file that goes with your static site and Github will replace *.github.io with your custom domain name.
 If you plan to use a domain manager to buy a site, I recommend <a href ="https://iwantmyname.com/">iwantmyname.com</a> and has a one click DNS forwarding with Github. 
 
 <h2>Design</h2>

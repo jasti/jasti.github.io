@@ -1,3 +1,2 @@
-# Image missing when saving blog to home screen 
 # Open RSS feed
-#favicon.ico
+# Create a quotes page

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Webservers that serve you
+title: Webservers That Serve You
 category: posts
 ---
 I feel like I had been living under a rock for all my web development years. Did you know that the default Python installation comes built in with a Http server?!

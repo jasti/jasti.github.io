@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Empathy
+title: Does Your API Empathize With Its User?
 category: posts
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog
+title: Build Your Own Blog
 category: posts
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Looking For A Career Change? Try Consulting
 category: posts
 ---
-After working for 6 years at Goldman Sachs(GS) doing a mix of software development and project management, I felt like I needed a career change. I was also doing my MBA while working at GS, which encouraged me to look into technology consulting. I felt that it would allow me to stay technical, solve interesting problems and work with people outside the tech world. After interviewing at a couple of consulting firms, I picked <a href="http://www.crd.com/">Charles River Development</a>.
+After working for 6 years at Goldman Sachs (GS) doing a mix of software development and project management, I felt like I needed a career change. I was also doing my MBA while working at GS (a post for another time), which encouraged me to look into technology consulting. I felt that it would allow me to stay technical, solve interesting problems and work with people outside the tech world. After interviewing at a couple of consulting firms, I decided to work in the consulting arm of a financial software company.
 
 A year has passed and having worked on close to 9 different client projects in the past year, I feel like I have a good understanding of the consulting job genre. I didn't have many people to talk to before considering my current job. I hope that this post will help you if you are in the market looking to do something different. 
 
@@ -29,14 +29,14 @@ The only meetings you attend are the ones <i>you</i> create. You have the freedo
 <h2>Professional Development</h2>
 Anyone who has worked in a company with more than a 1000 employees knows that the real learning curve takes place during the first year at a job. After that it can be very easy to "glide" through your career unless you take complete charge of it. As a software consultant, you have to be an expert in the area they bring you in for. You need to keep up with the advances in the area and it is an ongoing process. 
 
-As a consultant your work is measured by the hour. This is a great way to stay accountable and not fall prey to <a href="http://en.wikipedia.org/wiki/Parkinson's_law"> Parkinson's Law</a>. You focus more on getting things done vs “finding the best solution" where you could have diminishing returns beyond a certain point. This can translate into not doing your absolute best work, and you need to be okay with that. Such balance of trade-offs has made me more carefully consider my estimates, scope and clients' expectations.
+As a consultant your work is measured by the hour. This is a great way to stay accountable and not fall prey to <a href="http://en.wikipedia.org/wiki/Parkinson's_law"> Parkinson's Law</a>. You focus more on getting things done vs “finding the best solution" where you could have diminishing returns beyond a certain point.
 
 Your projects only last for about a month or two at a time and you cannot rely on your past accomplishments. You have to gain the client's trust with every new project. This could be quite de-motivating sometimes but it's also an opportunity to hit the reset button and learn from your past mistakes. This problem dilutes over time as you spend some time in the industry. Clients that like you want you to come back for other projects. 
 
-Companies like Charles River need to invest quite a bit in you before they put you out in the field because they aim to present a consistent level of expertise. In my case, we had a 4 month training program with topics ranging from finance to the architecture of the product combined with a mock implementation of the product judged by the senior management at the firm. Think about it, since graduation, when was the last time you had the opportunity to really focus for 4 months to learn new skills? And all this while you are getting paid!
+Consulting firms need to invest quite a bit in you before they put you out in the field because they aim to present a consistent level of expertise. In my case, we had a 4 month training program with topics ranging from finance to the architecture of the product combined with a mock implementation of the product judged by the senior management at the firm. Think about it, since graduation, when was the last time you had the opportunity to really focus for 4 months to learn new skills? And all this while you are getting paid!
 
 <h2>Tighter Feedback </h2>
-Since you are so close to the action and you can measure your output day in and day out, you get immediate feedback on your work. As a software consultant, you are brought in to solve very specific problems. You could be migrating a client off another vendor software by building plugins for the <a href ="http://www.crd.com/assets/pdfs/Charles_River_IMS_Overview_Brochure_WEB_US.pdf">Charles River OEMS</a>, or  you could be building interfaces for the client to connect to an exotic data provider. You don't spend months and years building something that the users may or may not like. If the client doesn't like what they see, you will know very soon. There is no ambiguity in your output and the value you deliver. You are happy when the implementation goes well, or you learn from your mistakes and try to do better the next time. 
+Since you are so close to the action and you can measure your output day in and day out, you get immediate feedback on your work. As a software consultant, you are brought in to solve very specific problems. You could be migrating a client off another vendor software by building functionality in your own software, or you could be building interfaces for the client to connect to an exotic data provider. You don't spend months and years building something that the users may or may not like. If the client doesn't like what they see, you will know very soon. There is no ambiguity in your output and the value you deliver. You are happy when the implementation goes well, or you learn from your mistakes and try to do better the next time. 
 
 <h2>Personal Development </h2>
 Traveling sucks. After the initial rush of feeling like George Clooney from <a href="https://www.youtube.com/watch?v=rTL1FmvVCuA">Up In The Air</a>, it all goes downhill.
@@ -56,12 +56,10 @@ You are pushed to become more emotionally-balanced and professionally mature as 
 
 <h2>Doing What You Love</h2>
 
-Consulting is not for everyone, and it is especially not for you if you already love what you do. I found software consulting to be refreshingly interesting after working for a thirty-five thousand person company. Your experience may be different, and you can find exceptions to every point I mention here and I respect that. A role of a software consultant is just not as concretely defined as, say, a web user interface developer. 
+Consulting is not for everyone, and it is especially not for you if you already love what you do. I found software consulting to be refreshingly interesting after working for a thirty-five thousand person company. Your experience may be different, and you can find exceptions to every point I mention here and I respect that. I encourage you to get in touch with me if you feel differently. A role of a software consultant is just not as concretely defined as, say, a web user interface developer.
 
 
 If you are thinking of making a career switch, I hope this post will give you a slight nudge to consider consulting as a career option, if you haven’t already.
-
-P.S : This is <i>not</i> a plug for my company, but if you are genuinely interested and want to know more about Charles River or software consulting in general, I'll be very happy to chat with you. We are always looking for great people.
 
 
 ---

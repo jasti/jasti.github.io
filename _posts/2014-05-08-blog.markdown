@@ -18,7 +18,7 @@ There are some other obvious reasons to avoid blogging sites. If they <a href ="
 
 I started using <a href ="http://www.sublimetext.com/">Sublime Text</a> for programming about a year ago and it has been a total game-changer. If you are a programmer, you'll feel right at home, like you are typing on the command line. Especially if you use the <a href = "https://github.com/buymeasoda/soda-theme/">Soda-theme</a>. I like the ability to do most of the things I want to from the command line or Sublime without having to deal with clunky pixelated user interfaces. The ability to write a blog like we build software - iteratively, with source control and experimentation was a huge requirement.
 
-When I decided to write, i started to research and the obvious pick was to use a <a href ="http://staticsitegenerators.net/" >Static Site Generator</a> and since I was building a rails site for a friend's startup, I decided to go with <a href ="http://jekyllrb.com/">Jekyll </a>. After hacking on it for a couple of weekends, I finally have something that I am quite happy with.
+When I decided to write, I started to research and the obvious pick was to use a <a href ="http://staticsitegenerators.net/" >Static Site Generator</a> and since I was building a rails site for a friend's startup, I decided to go with <a href ="http://jekyllrb.com/">Jekyll </a>. After hacking on it for a couple of weekends, I finally have something that I am quite happy with.
 Ultimately, the ability to experiment, learn and see your new features come to fruition instantly, feels quite rewarding. 
 
 <img src="/images/blog/sublime.png"/>

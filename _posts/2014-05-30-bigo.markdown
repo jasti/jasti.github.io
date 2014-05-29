@@ -57,7 +57,7 @@ Similarly, the complexity might vary in the best or average case for different a
 An operation could be an iteration of a for-loop or could be as simple as returning the first element of a list, regardless of the size of the list.
 In case of the for-loop, if the number of iterations we perform is the same as the size of the input, the algorithm is said to have a complexity of O(n). In the case where the operation returns the first element of the input, the size of the input doesn't matter. The number of operations performed is always 1. This is known as constant complexity and represented as O(1).
 
-<h3>Eliminate lower order terms</h3>
+<h3>Ignoring lower order terms</h3>
 When performing big-O analysis, we ignore the lower order terms and constants. Consider an algorithm that performs the following operations: A nested for-loop where both loops iterate over all the elements passed in as input, a while-loop which iterates over all the elements passed in as input and a simple operation to add two numbers. The complexity in this case will be O(n^2 +n+1). 
 
 The complexity is O(n^2) because we need to eliminate the lower order terms and constants. The reason of this is, when stating the complexity of the algorithm, we always assume that the input is a large number of values. When 'n' tends to become large, the constants and the terms with lower powers tend to matter less. This is purely by convention and there is no reason we cannot design an algorithm for only a small set of input values, if we are sure about it.

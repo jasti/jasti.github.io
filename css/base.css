@@ -187,9 +187,10 @@ a {
 .content img {
 	padding: 3px;
 	border: 1px solid #eeeeee;
-	max-width: 750px;
+	max-width: 100%;
     margin-left: auto;
     margin-right: auto;
+    height: auto;
 }
 
 

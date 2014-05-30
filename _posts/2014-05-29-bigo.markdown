@@ -173,7 +173,7 @@ C -> A -> B <br>
 C -> B -> A <br>
 
 For an input of n, the complexity of such a problem will be O(n!).
-Note that half of paths in this case will be of the same distance, just traversed in reverse, so technically the complexity should be O(n!/2), remember that we ignore all constants while coming up with the complexity.
+Note that half of paths in this case will be of the same distance, just traversed in reverse, so technically the complexity should be O(n!/2). However, remember that we ignore all constants while coming up with the complexity.
 
 <h3>Exponential</h3>
 <b>Representation :</b> O(2 ^n) <br>

@@ -28,7 +28,7 @@ We will avoid considering the space complexity for this discussion and as do mos
 In a loose sense, performance is useful in measuring absolute time spent on a certain task. However, big-O analysis is about relative time spent by the algorithm to solve the problem, thus leveling the playing field.
 
 
-Let's say we are given some unsorted numbers and we need to arrange them in ascending order. As you probably already know, there are many ways to <a href ="http://en.wikipedia.org/wiki/Sorting_algorithm#Popular_sorting_algorithms">sort</a> those numbers. Let's look at two simple sorting techniques, sorting the same input numbers :
+Let's say we are given some unsorted numbers and we need to arrange them in ascending order. As you probably already know, there are many ways to <a href ="http://en.wikipedia.org/wiki/Sorting_algorithm#Popular_sorting_algorithms">sort</a> those numbers. Let's look at two simple sorting techniques, sorting the same input numbers : <br>
 <i> If you just arrived to the show below, simply refresh the page and it will start from the beginning :) </i> <br>
 
 <h3>Merge Sort </h3>

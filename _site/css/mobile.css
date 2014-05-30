@@ -4,13 +4,14 @@
   margin: 0;
   padding: 25px; }
   .sidebar img {
-    display: none; }
+    display: inline; }
   .sidebar .name {
     display: inline; }
     .sidebar .name #fname, .sidebar .name #lname {
       font-size: 25px; }
   .sidebar .meta {
-    display: none; }
+    display: inline-block; 
+    margin: 0; }
   .sidebar ul {
     padding: 25px; }
   .sidebar li {

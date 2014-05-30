@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-	font-family: "Freight Sans Pro","Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-family: "Oxygen","Palatino Linotype", "Book Antiqua", Palatino, serif;
 	margin: 0;
 	-webkit-font-smoothing: antialiased;
 }
@@ -14,8 +14,8 @@ a {
 	position: fixed;
 	left: 15px;
 	top: 15px;
-	width: 80px;
-	font-family: Helvetica, sans-serif;
+	width: 120px;
+	font-family: "Oxygen",Helvetica, sans-serif;
 }
 
 .sidebar a {
@@ -62,11 +62,11 @@ a {
 }
 
 .sidebar .meta {
-	margin-left: 4px;
+	margin-	: 4px;
 }
 
 .sidebar .meta .icon {
-	margin-right: 6px;
+	margin-right: 4px;
 }
 
 .sidebar .sections {
@@ -97,14 +97,14 @@ a {
 
 .content {
 	max-width: 750px;
-	margin-left: 130px;
-	margin-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
 	margin-bottom: 50px;
 }
 
 .content h1 {
 	color: #333;
-	font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+	font-family: "Lobster", Helvetica, sans-serif;
 	font-weight: 400;
 }
 
@@ -115,7 +115,7 @@ a {
 
 .content h2 {
 	color: #333;
-	font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+	font-family: "Oxygen", Helvetica, sans-serif;
 	font-weight: 400;
 }
 
@@ -126,7 +126,7 @@ a {
 
 .content h3 {
 	color: #333;
-	font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+	font-family: "Oxygen", Helvetica, sans-serif;
 	font-weight: 400;
 }
 
@@ -137,7 +137,7 @@ a {
 
 .content h4 {
 	color: #333;
-	font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+	font-family: "Oxygen", Helvetica, sans-serif;
 	font-weight: 400;
 }
 
@@ -163,6 +163,12 @@ a {
 	margin-bottom: 10px;
 }
 
+.content a {
+	color: #000000;
+	text-decoration: none;
+	font-weight:bold;
+}
+
 .content p {
 	font-size: 16px;
 	margin-top: 0;
@@ -182,15 +188,11 @@ a {
 	padding: 3px;
 	border: 1px solid #eeeeee;
 	max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
 }
 
-.content hr {
-	border: 0;
-	height: 6px;
-	background-image: url("/images/hr.png");
-	background-repeat: repeat-x;
-	margin: 2em 3em;
-}
 
 .content li {
 	margin-bottom: 10px;
@@ -219,7 +221,7 @@ a {
 
 .content .byline {
 	margin-bottom: 17px;
-	font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+	font-family: "Oxygen", Helvetica, sans-serif;
 	padding-left: 0px;
 	font-size: 17px;
 	color: #777;
@@ -237,7 +239,7 @@ a {
 .content .listing {
 	margin: 10px 0 0 0;
 	padding: 0;
-	font-family: Helvetica, sans-serif;
+	font-family: "Oxygen",Helvetica, sans-serif;
 }
 
 .content .listing ul {
@@ -246,7 +248,7 @@ a {
 }
 
 .content .listing li {
-	font-size: 13px;
+	font-size: 18px;
 	list-style: none;
 	padding: 5px 3px;
 	margin: 0;
@@ -260,7 +262,9 @@ a {
 
 .content .listing a {
 	text-decoration: none;
+	font-weight:normal;
 }
+
 
 .content .listing a:hover {
 	text-decoration: underline;
@@ -269,7 +273,7 @@ a {
 .content .meta {
 	margin: 30px 0;
 	padding: 10px 0;
-	font-family: Helvetica, sans-serif;
+	font-family: "Oxygen",Helvetica, sans-serif;
 }
 
 .content .meta p {
@@ -307,4 +311,11 @@ a {
 
 .content .talk-design .color .white {
 	color: #fff;
+}
+
+#disqus_thread{
+	max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 50px;
 }

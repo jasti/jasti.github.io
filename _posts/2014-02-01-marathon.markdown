@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Running off a cliff
+title: Running Off A Cliff
 category: posts
 ---
 I was on vacation visiting my brother's in Texas. After a heavy meal and 

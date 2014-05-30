@@ -4,7 +4,7 @@ title: Big-O Analysis For Recreational Programmers
 category: posts
 ---
 
-Part of why I write these technical posts is to get a better understanding myself. You ask why I can't do this without writing it as as a blog post? It's like when you clean your house when you know you have guests coming. You could clean all the time, but you don't.
+Part of why I write these technical posts is to get a better understanding of a topic. You ask why I can't do this without writing it as as a blog post? It's like when you clean your house when you know you have guests coming. You could clean all the time, but you don't.
 
 Computing theory is hard to grasp unless it is laid out in concrete examples. I had a tough time understanding Big-O analysis in school. A self taught programmer who I met at <a href = "http://hackerhours.org/">Hacker Hours </a> asked to explain big-O analysis and I asked him for a week to write this post. So here is my attempt at demystifying it - in plain English. This is not a theoretical post. I don't claim to know all the theory behind big-O analysis. This is simply a way of understanding the fundamentals without getting bogged down by academic lingo, formulae and greek letters.
 

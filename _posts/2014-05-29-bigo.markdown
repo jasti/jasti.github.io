@@ -29,6 +29,8 @@ In a loose sense, performance is useful in measuring absolute time spent on a ce
 
 
 Let's say we are given some unsorted numbers and we need to arrange them in ascending order. As you probably already know, there are many ways to <a href ="http://en.wikipedia.org/wiki/Sorting_algorithm#Popular_sorting_algorithms">sort</a> those numbers. Let's look at two simple sorting techniques, sorting the same input numbers :
+<i> If you just arrived to the show below, simply refresh the page and it will start from the beginning :) </i> <br>
+
 <h3>Merge Sort </h3>
 <center><img src="/images/blog/bigo/Merge_sort.gif"/></center> 
 <h3>Insertion Sort </h3>

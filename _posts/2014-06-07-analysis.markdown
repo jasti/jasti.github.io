@@ -36,11 +36,11 @@ For this analysis, we'll use the following tools :
 3. Open Refine
 4. IPython notebook
 
-I have a brief description and installation instructions for tools 1, 2 and 4 in the my previous post <a href ="http://vamseejasti.com/posts/scraping/">here</a>. Open Refine is a UI driven open source project that allows you to clean up messy data. Especially the type of data you get from web scrapping.
+I have a brief description and installation instructions for tools 1, 2 and 4 in the my previous post <a href ="http://vamseejasti.com/posts/scraping/">here</a>. Open Refine is a UI driven open source project that allows you to clean up messy data, especially the type of data you get from web scraping.
 You can find installation instructions <a href = "https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions">here</a>. 
 
 <h2>Viewing your data</h2>
-Although the data can be viewed in a plain notepad or excel, you want a tool in which you can experiment and immediately see the results. This is where the IPython Notebook shines. It is an interactive web interface which allows you interface with your data, one step at a time.
+Although the data can be viewed in a plain Notepad or Excel, you want a tool in which you can experiment and immediately see the results. This is where the IPython Notebook shines. It is an interactive web interface that allows you to interface with your data, one step at a time.
 
 <i> I'll have all this code available on Github, along with a sample IPython Notebook, so just follow along.</i>
 
@@ -55,11 +55,11 @@ I use Open Refine to deal with all sought of messy data. The usual suspects are 
 3. Converting all your text to a single case
 4. Removing duplicates
 
-For data scrapped from the internet, although two sentences could mean the same thing, they could be typed in many different ways. Here is an example :
+ Looking at the example below, these are two phrases that mean the same thing, but could be typed in many different ways.
 
 <center><img src="/images/blog/analysis/02-differences.png"/></center> 
 
-Open Refine does a good job of combining these type of sentences into one representation. The primary concept used under the hood is called  <a href = "https://github.com/OpenRefine/OpenRefine/wiki/Clustering-In-Depth#key-collision-methods">Key Collision</a>. If you want to understand one way to applying a key collision method, fingerprinting is the most basic of all. The <a href = "https://github.com/OpenRefine/OpenRefine/wiki/Clustering-In-Depth#fingerprint">Open Refine docs</a> do a great job of explaining it. 
+Open Refine does a good job of combining these type of phrases into one representation. The primary concept used under the hood is called  <a href = "https://github.com/OpenRefine/OpenRefine/wiki/Clustering-In-Depth#key-collision-methods">Key Collision</a>. If you want to understand one way to applying a key collision method, fingerprinting is the most basic of all. The <a href = "https://github.com/OpenRefine/OpenRefine/wiki/Clustering-In-Depth#fingerprint">Open Refine docs</a> do a great job of explaining it. 
 
 In order to get your data into Open Refine, let's export the data from Pandas in a CSV format.
 

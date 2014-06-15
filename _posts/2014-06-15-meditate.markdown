@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One thing about meditation
+title: One Thing About Meditation
 category: posts
 ---
 

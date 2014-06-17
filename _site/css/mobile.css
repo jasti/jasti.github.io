@@ -29,3 +29,11 @@
   width: inherit; }
   .content h1 {
     margin: 0 0 5px 0; }
+  .#no-mobile {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }

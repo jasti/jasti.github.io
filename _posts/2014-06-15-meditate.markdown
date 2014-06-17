@@ -2,6 +2,7 @@
 layout: post
 title: One Thing About Meditation
 category: posts
+tags : Thoughts, Meditation
 ---
 
 We have all heard about how meditation is good for you. The benefits include peace of mind, happiness, stress-relief and a better quality of life among other things. Having said that, there is still a lot of mystery around the connection between the physical action of meditation and its benefits.

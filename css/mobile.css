@@ -11,7 +11,8 @@
       font-size: 25px; }
   .sidebar .meta {
     display: inline-block; 
-    margin: 0; }
+    margin: 0 20px 0 0;
+    padding: 5px 10px;}
   .sidebar ul {
     padding: 25px; }
   .sidebar li {
@@ -29,3 +30,11 @@
   width: inherit; }
   .content h1 {
     margin: 0 0 5px 0; }
+  .content #no-mobile {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }

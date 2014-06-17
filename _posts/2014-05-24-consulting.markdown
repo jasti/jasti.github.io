@@ -3,7 +3,9 @@ layout: post
 title: Looking For A Career Change? Try Consulting
 category: posts
 ---
-After working for 6 years at Goldman Sachs (GS) doing a mix of software development and project management, I felt like I needed a career change. I was also doing my MBA while working at GS (a post for another time), which encouraged me to look into technology consulting. I felt that it would allow me to stay technical, solve interesting problems and work with people outside the tech world. After interviewing at a couple of consulting firms, I decided to work in the consulting arm of a financial software company.
+After working for 6 years at Goldman Sachs (GS) doing a mix of software development and project management, I felt like I needed a career change. I was also doing my MBA while working at GS (a post for another time), which encouraged me to look into technology consulting. 
+
+I felt that it would allow me to stay technical, solve interesting problems and work with people outside the tech world. After interviewing at a couple of consulting firms, I decided to work in the consulting arm of a financial software company.
 
 A year has passed and having worked on close to 9 different client projects in the past year, I feel like I have a good understanding of the consulting job genre. I didn't have many people to talk to before considering my current job. I hope that this post will help you if you are in the market looking to do something different. 
 

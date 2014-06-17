@@ -4,7 +4,9 @@ title: Build Your Own Blog
 category: posts
 ---
 
-Writing here has gotten me thinking more deeply about things I come across everyday. Talking comes naturally to me and I can spend days having conversations with friends with no real agenda, but I am not as good at writing concrete material and I wanted to work towards changing that. Thinking while speaking with someone usually gets me to a level or two, but writing down forces me to solidify my reflection on a thought. It's gotten me to re-read what I create multiple number of times, which is a great patience builder. Plus it's always a good feeling to hear back from that one angel of a reader who emails you to tell you how she found your technical article helpful.
+Writing here has gotten me thinking more deeply about things I come across everyday. Talking comes naturally to me and I can spend days having conversations with friends with no real agenda, but I am not as good at writing concrete material and I wanted to work towards changing that. Thinking while speaking with someone usually gets me to a level or two, but writing down forces me to solidify my reflection on a thought. 
+
+It's gotten me to re-read what I create multiple number of times, which is a great patience builder. Plus it's always a good feeling to hear back from that one angel of a reader who emails you to tell you how she found your technical article helpful.
 
 Blog sites like Medium and Tumblr have come a long way with <a href ="http://en.wikipedia.org/wiki/WYSIWYG">WYSIWYG</a> but they all claim to do whatever they want with your content, including monetize. Not to say that I won't write for free, I will, but at my terms.
 

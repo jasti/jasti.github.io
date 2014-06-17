@@ -7,6 +7,9 @@ rdiscount:
 name: Vamsee Jasti
 blog_name: Sent from my ipod
 url: jasti.github.io
-description: Thoughts, nerdery & experiments
+description: Thoughts, Nerdery & Experiments
 twitter: vamseejasti
 github: jasti
+tags:
+- jekyll
+- code

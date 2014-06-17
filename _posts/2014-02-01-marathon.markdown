@@ -2,6 +2,7 @@
 layout: post
 title: Running Off A Cliff
 category: posts
+excerpt: I was on vacation visiting my brother's in Texas. After a heavy meal and slowly drifting into an incredible food coma, I picked up a book lying next to bed on a shelf called
 ---
 I was on vacation visiting my brother's in Texas. After a heavy meal and 
 slowly drifting into an incredible food coma, I picked up a book lying next to bed on a shelf called <a href = "http://www.amazon.com/Four-Months-Four-hour-Marathon-Updated/dp/0399532595">4 hour marathon</a>.

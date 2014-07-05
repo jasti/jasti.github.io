@@ -9,6 +9,7 @@
     {{ site.name }}
   </title>
 
+
   <meta name="author" content="{{ site.name }}" />
   <meta name="description" content="{{ site.description }}" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -46,15 +47,19 @@
 
 <body>
   <section class="sidebar">
+    <!--
     <a href="/">
       <img src="/images/blogPic.jpg" height="100" width="100" class="avatar" />
     </a>
+  -->
 
     <section class="name">
+     
       <a href="/">
         <span id="fname">{{ site.name|split:' '|first }}</span>
         <span id="lname">{{ site.name|split:' '|last }}</span>
       </a>
+
     </section>
 
     <section class="meta">

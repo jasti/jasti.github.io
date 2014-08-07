@@ -30,7 +30,7 @@ Sales is a hard job and sales engineers do everything in their power to control 
 
 Instead, by assigning a consultant to the implementation, he is able to provide most value by building workarounds where the product completely satisfies the use-case, maintaining the client relationship and best of all channeling these edge use-cases back into the product. If those features get added to the next sprint release, it is a win-win situation for both the client and the product.
 
-<h2> Configuration vs Customization </h2>
+<h2> Configuration vs Customization </h2>   
 
 Designing a product to be highly configurable is obviously very good, but the configuration framework (things like rules based database or locale settings) won’t be able to handle all the different use-cases. The solution is to design a product that is highly customizable, but it can be a double-edged sword. Consultants are able to accommodate use cases / workflows by building custom solutions. Unless you end up incorporating all these customizations back into the product in a timely manner, upgrading the client to the next version will be very hard.
 
@@ -39,7 +39,7 @@ In early stages of high growth start ups, prioritization of features is extremel
 
 <br>
 The downside of having a professional services department is obvious. There is an initial upfront capital expense. The size of the department needs to scale with the deals in the sales pipeline. It is quite hard (and often expensive) to hire consultants who have good functional knowledge, are good at customer service and have the technical capability to build workarounds and customizations in the product. One can’t make too many mistakes with these hires because quality of service directly correlates with client retention and these hires are the face of the product.
-
+  
 <br>
 In summary, there are so many things that can’t be controlled by a company, including market conditions, competition, and clients going out of business. The one important thing that a company can control is the implementation, and there is no better way than to build a client solutions organization to excel at that.
 

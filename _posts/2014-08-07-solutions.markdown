@@ -38,7 +38,7 @@ In early stages of high growth start ups, prioritization of features is extremel
 
 
 <br>
-The downside of having a professional services department is obvious. There is an initial upfront capital expense. The size of the department needs to scale with the deals in the sales pipeline. It is quite hard (and often expensive) to hire consultants who have good functional knowledge, are good at customer service and have the technical capability to build workarounds and customizations in the product. One can’t make too many mistakes with these hires because quality of service directly correlates with client retention and these hires are the face of the product.
+The downside of having a client solutions department is obvious. There is an initial upfront capital expense. The size of the department needs to scale with the deals in the sales pipeline. It is quite hard (and often expensive) to hire consultants who have good functional knowledge, are good at customer service and have the technical capability to build workarounds and customizations in the product. One can’t make too many mistakes with these hires because quality of service directly correlates with client retention and these hires are the face of the product.
   
 <br>
 In summary, there are so many things that can’t be controlled by a company, including market conditions, competition, and clients going out of business. The one important thing that a company can control is the implementation, and there is no better way than to build a client solutions organization to excel at that.

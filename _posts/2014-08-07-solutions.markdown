@@ -7,7 +7,7 @@ tags : Tech
 
 You are 3 months into building the MVP for your enterprise software startup. Your product is ready for launch. You have had the time to hire a few sales folks to go out and sell your product. The product is quite successful and a bunch of clients sign up for the product. How you onboard your client can be make or break for the long term relationship with the client. A lot of early stage companies focus on sales, but the secret sauce for long term growth and retention is implementation of the product. Obviously, you can’t have the later without the former, but I want to highlight why having a client solutions function can sometimes be as important as (if not more than) having a sales function.
 
-Enterprise software (think customer service software, hedge fund trading software) is different than commercial software(Kayak, Airbnb, Facebook) in usage, complexity and price. There are fewer users using enterprise software, functionality is more rich, and product margins are higher. In contrast to enterprise software, you don’t see a huge need for sales and client solutions in the commercial software business. Competition to sell an enterprise product is a lot more cut-throat because deals are much bigger. Enterprise software is built to be more configurable because of the ability to satisfy niche workflows and use-cases.
+Enterprise software (think customer service software, hedge fund trading software) is different than commercial software (Kayak, Airbnb, Facebook) in usage, complexity and price. There are fewer users using enterprise software, functionality is more rich, and product margins are higher. In contrast to enterprise software, you don’t see a huge need for sales and client solutions in the commercial software business. Competition to sell an enterprise product is a lot more cut-throat because deals are much bigger. Enterprise software is built to be more configurable because of the ability to satisfy niche workflows and use-cases.
 
 A lot of pure-bred software engineers have asked me the value of client solutions. Shoudn't software "just work"? Here are a couple of reasons why enterprise software companies must provide client solutions right after you start selling the product:
 
@@ -41,7 +41,7 @@ In early stages of high growth start ups, prioritization of features is extremel
 The downside of having a client solutions department is obvious. There is an initial upfront capital expense. The size of the department needs to scale with the deals in the sales pipeline. It is quite hard (and often expensive) to hire consultants who have good functional knowledge, are good at customer service and have the technical capability to build workarounds and customizations in the product. One can’t make too many mistakes with these hires because quality of service directly correlates with client retention and these hires are the face of the product.
   
 <br>
-In summary, there are so many things that can’t be controlled by a company, including market conditions, competition, and clients going out of business. The one important thing that a company can control is the implementation, and there is no better way than to build a client solutions organization to excel at that.
+There are so many things that can’t be controlled by a company, including market conditions, competition, and clients going out of business. The one important thing that a company can control is the implementation, and there is no better way than to build a client solutions organization to excel at that.
 
 
 

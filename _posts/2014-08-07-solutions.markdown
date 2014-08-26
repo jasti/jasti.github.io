@@ -43,7 +43,6 @@ The downside of having a client solutions department is obvious. There is an ini
 <br>
 There are so many things that can’t be controlled by a company, including market conditions, competition, and clients going out of business. The one important thing that a company can control is the implementation, and there is no better way than to build a client solutions organization to excel at that.
 
-
 ---
 
 

@@ -30,7 +30,7 @@ Last but not least, is the main part of the script that ties it all together. Th
 
 <center><img src="/images/blog/beats/main.png"/></center> 
 
-<h2>Running The Script</h2>
+<h2>Running It</h2>
 You can find the full script in this<a href ="https://gist.github.com/jasti/cf5188b411d185a4f27a">gist</a>. Run this from the command line by simply typing 'python Beats.py'. You will see the files getting downloaded to the same location you ran it from, on the disk.
 
 <center><img src="/images/blog/beats/running.png"/></center> 

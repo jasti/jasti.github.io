@@ -26,9 +26,9 @@ Firms usually have more than a single product offering and in cases where your c
  
 <h2>Fixing The Sales Demo Hangover </h2>	
 
-Sales is a hard job and sales engineers do everything in their power to control the things they can during a demo. More often than not, client will see a stellar demo but the cobwebs don’t get exposed until the client starts using it. The devil always lies in the details. Sales does a stellar job with sandboxed data but come implementation time, the product doesn’t suit all possible use-cases. Almost no product ever does. The client is unhappy even before the product is live! 
+Sales is a hard job and sales engineers do everything in their power to control the things they can during a demo. More often than not, client will see a stellar demo but the cobwebs don’t get exposed until the client starts using it. The devil always lies in the details. Sales does a fantastic job with sandboxed data but come implementation time, the product doesn’t suit all possible use-cases. Almost no product ever does. The client is unhappy even before the product is live! 
 
-Instead, by assigning a consultant to the implementation, he is able to provide most value by building workarounds where the product completely satisfies the use-case, maintaining the client relationship and best of all channeling these edge use-cases back into the product. If those features get added to the next sprint release, it is a win-win situation for both the client and the product.
+Instead, by assigning a consultant to the implementation, he is able to provide most value by building workarounds where the product doesn't completely satisfy the use-case, maintaining the client relationship and best of all, channeling these edge use-cases back into the product. If those features get added to the next sprint release, it is a win-win situation for both the client and the product.
 
 <h2> Configuration vs Customization </h2>   
 
@@ -41,7 +41,7 @@ In early stages of high growth start ups, prioritization of features is extremel
 The downside of having a client solutions department is obvious. There is an initial upfront capital expense. The size of the department needs to scale with the deals in the sales pipeline. It is quite hard (and often expensive) to hire consultants who have good functional knowledge, are good at customer service and have the technical capability to build workarounds and customizations in the product. One can’t make too many mistakes with these hires because quality of service directly correlates with client retention and these hires are the face of the product.
   
 <br>
-There are so many things that can’t be controlled by a company, including market conditions, competition, and clients going out of business. The one important thing that a company can control is the implementation, and there is no better way than to build a client solutions organization to excel at that.
+There are so many things that can’t be controlled by a company, including market conditions, competition, and clients going out of business. The one important thing that a company <i>can</i> control is the implementation, and there is no better way than to build a client solutions organization to excel at that.
 
 ---
 

@@ -27,7 +27,7 @@ Most languages don’t get this far, but once they do - you can be sure that the
 
 Of course, we don't need to learn every new language under the sun. The jury is still out on how much energy you need to spend learning something new vs sticking to what you know. It is a fine balance. This mostly depends on your available time and drive. It's a topic that deserves a post of its own.
 
-I've only discussed programming languages here, but it could very well apply to build systems, third party services, development environments, deployment solutions, etc. So the next time you are curious about learning a new piece of technology, remember to have the faith in the larger programming community to only promote the tools that make the developer ecosystem a <i>better</i> place. Take that first step. Believe that it is easier than the language you already know. Get your feet wet. Pick a good tutorial and Google your way through.
+I've only discussed programming languages here, but it could very well apply to build systems, third party services, development environments, deployment solutions, etc. So the next time you are curious about learning a new piece of technology, remember to have the faith in the larger programming community to only promote the tools that make the developer ecosystem a <i>better</i> place. Take that first step. Believe that it is easier than the language you already know. Get your feet wet. Pick a good tutorial and hack your way through!
 
 
 ---

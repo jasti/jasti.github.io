@@ -5,11 +5,10 @@
 		<description>Video Feed</description>
 		<link>http://www.idg.tv/</link>
 		<pubDate>Thu, 14 May 2015 11:34:36 -0400</pubDate>
-		<atom:link rel="self" href="http://www.idg.tv/video/dfp.rss?start=0&amp;pageSize=10" />
-		<atom:link rel="next" href="http://www.idg.tv/video/dfp.rss?start=10&amp;pageSize=10" />
+		<atom:link rel="self" href="http://vamseejasti.com/dfp.xml" />
 		<openSearch:itemsPerPage>10</openSearch:itemsPerPage>
 		<openSearch:startIndex>1</openSearch:startIndex>
-		<openSearch:totalResults>4136</openSearch:totalResults>
+		<openSearch:totalResults>10</openSearch:totalResults>
 	
 		<item>
 			<guid isPermaLink='false'>urn:uuid:com.idg.media.50503</guid>

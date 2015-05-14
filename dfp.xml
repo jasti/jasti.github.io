@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom='http://www.w3.org/2005/Atom' xmlns:media='http://search.yahoo.com/mrss/' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:dfpvideo='http://api.google.com/dfpvideo' version='2.0'>
+	<channel>
+		<title>IDG.TV Video Feed</title>
+		<description>Video Feed</description>
+		<link>http://www.idg.tv/</link>
+		<pubDate>Thu, 14 May 2015 11:34:36 -0400</pubDate>
+		<atom:link rel="self" href="http://www.idg.tv/video/dfp.rss?start=0&amp;pageSize=10" />
+		<atom:link rel="next" href="http://www.idg.tv/video/dfp.rss?start=10&amp;pageSize=10" />
+		<openSearch:itemsPerPage>10</openSearch:itemsPerPage>
+		<openSearch:startIndex>1</openSearch:startIndex>
+		<openSearch:totalResults>4136</openSearch:totalResults>
+	
+		<item>
+			<guid isPermaLink='false'>urn:uuid:com.idg.media.50503</guid>
+			<pubDate>Mon, 06 Apr 2015 04:00:00 -0400</pubDate>
+			<title>Samsung Galaxy S6 Edge video review: One of the prettiest phones ever</title>
+			<description>The Galaxy S6 Edge is a beautiful phone, but is it worth the extra $100? </description>
+			<link>http://www.greenbot.com/video/50503/samsung-galaxy-s6-edge-video-review-one-of-the-prettiest-phones-ever.html</link>
+		
+			<media:group>
+			
+			
+				<media:category>Phones</media:category>
+			
+			
+				<media:player url="http://players.brightcove.net/2669672615001/default_default/index.html?videoId=4152021145001" />
+		
+			
+				<media:thumbnail url="http://images.techhive.com/images/article/2015/04/gs6edgestill-100577338-poster.jpg"/>
+			
+			
+		
+				<media:description>The Galaxy S6 Edge is a beautiful phone, but is it worth the extra $100? </media:description>
+				<media:keywords>Samsung, Samsung Galaxy S6, Galaxy S6</media:keywords>
+				<media:title type='plain'>Samsung Galaxy S6 Edge video review: One of the prettiest phones ever</media:title>
+			</media:group>
+			<dfpvideo:contentID>50503</dfpvideo:contentID>
+			<dfpvideo:thirdPartyContentId cms='brightcove' id='4152021145001'/>
+			<dfpvideo:monetizable>true</dfpvideo:monetizable>
+			<dfpvideo:cuepoints>0</dfpvideo:cuepoints>
+			<dfpvideo:stats totalViewCount=''/>
+			<dfpvideo:owner name="32768"/>
+		</item>
+	
+		<item>
+			<guid isPermaLink='false'>urn:uuid:com.idg.media.50186</guid>
+			<pubDate>Sun, 05 Apr 2015 03:00:00 -0400</pubDate>
+			<title>Hardcore Hardware: Falcon Northwest Mach V Icon2 and Tri-SLI Titan X cards!</title>
+			<description>Falcon Northwest&#039;s Mach V Icon2 may cost more than your first car but it should. We fired up this new bird and ran 3DMark at its 4K setting and it settled in on the record charts in the 40s. That puts this product box among the fastest PCs for on Earth for gaming.</description>
+			<link>http://www.pcworld.com/video/50186/hardcore-hardware-falcon-northwest-mach-v-icon2-and-tri-sli-titan-x-cards.html</link>
+		
+			<media:group>
+			
+			
+				<media:category>Gaming</media:category>
+			
+			
+				<media:player url="http://players.brightcove.net/2669672615001/default_default/index.html?videoId=4139117023001" />
+		
+			
+				<media:thumbnail url="http://images.techhive.com/images/article/2015/03/falcongaming_thumbnail_v03-100575977-poster.jpg"/>
+			
+			
+		
+				<media:description>Falcon Northwest&#039;s Mach V Icon2 may cost more than your first car but it should. We fired up this new bird and ran 3DMark at its 4K setting and it settled in on the record charts in the 40s. That puts this product box among the fastest PCs for on Earth for gaming.</media:description>
+				<media:keywords></media:keywords>
+				<media:title type='plain'>Hardcore Hardware: Falcon Northwest Mach V Icon2 and Tri-SLI Titan X cards!</media:title>
+			</media:group>
+			<dfpvideo:contentID>50186</dfpvideo:contentID>
+			<dfpvideo:thirdPartyContentId cms='brightcove' id='4139117023001'/>
+			<dfpvideo:monetizable>true</dfpvideo:monetizable>
+			<dfpvideo:cuepoints>0</dfpvideo:cuepoints>
+			<dfpvideo:stats totalViewCount=''/>
+			<dfpvideo:owner name="2"/>
+		</item>
+	
+		<item>
+			<guid isPermaLink='false'>urn:uuid:com.idg.media.50345</guid>
+			<pubDate>Fri, 03 Apr 2015 16:47:00 -0400</pubDate>
+			<title>Hyundai&#039;s Android Wear app lets you control your car from your wrist</title>
+			<description>Hyundai shows us the latest addition to its Blue Link communication and navigation platform: a smartwatch app for Android Wear.</description>
+			<link>http://www.idg.tv/video/50345/hyundais-android-wear-app-lets-you-control-your-car-from-your-wrist.html</link>
+		
+			<media:group>
+			
+			
+			
+				<media:player url="http://players.brightcove.net/2669672615001/default_default/index.html?videoId=4152408278001" />
+		
+			
+				<media:thumbnail url="http://images.techhive.com/images/article/2015/04/0403-hyndaiimage-100577367-poster.jpg"/>
+			
+			
+		
+				<media:description>Hyundai shows us the latest addition to its Blue Link communication and navigation platform: a smartwatch app for Android Wear.</media:description>
+				<media:keywords></media:keywords>
+				<media:title type='plain'>Hyundai&#039;s Android Wear app lets you control your car from your wrist</media:title>
+			</media:group>
+			<dfpvideo:contentID>50345</dfpvideo:contentID>
+			<dfpvideo:thirdPartyContentId cms='brightcove' id='4152408278001'/>
+			<dfpvideo:monetizable>true</dfpvideo:monetizable>
+			<dfpvideo:cuepoints>0</dfpvideo:cuepoints>
+			<dfpvideo:stats totalViewCount=''/>
+			<dfpvideo:owner name="1048576"/>
+		</item>
+	
+		<item>
+			<guid isPermaLink='false'>urn:uuid:com.idg.media.50465</guid>
+			<pubDate>Fri, 03 Apr 2015 16:46:00 -0400</pubDate>
+			<title>Jaguar&#039;s luxury 2016 XF sports new high-tech dashboard</title>
+			<description>Jaguar&#039;s XF sedan gets upgraded with 10.2-inch InControl Touch Pro system powered by an Intel quad-core processor.</description>
+			<link>http://www.idg.tv/video/50465/jaguars-luxury-2016-xf-sports-new-high-tech-dashboard.html</link>
+		
+			<media:group>
+			
+			
+			
+				<media:player url="http://players.brightcove.net/2669672615001/default_default/index.html?videoId=4152408275001" />
+		
+			
+				<media:thumbnail url="http://images.techhive.com/images/article/2015/04/0403-jaguarimage-100577366-poster.jpg"/>
+			
+			
+		
+				<media:description>Jaguar&#039;s XF sedan gets upgraded with 10.2-inch InControl Touch Pro system powered by an Intel quad-core processor.</media:description>
+				<media:keywords></media:keywords>
+				<media:title type='plain'>Jaguar&#039;s luxury 2016 XF sports new high-tech dashboard</media:title>
+			</media:group>
+			<dfpvideo:contentID>50465</dfpvideo:contentID>
+			<dfpvideo:thirdPartyContentId cms='brightcove' id='4152408275001'/>
+			<dfpvideo:monetizable>true</dfpvideo:monetizable>
+			<dfpvideo:cuepoints>0</dfpvideo:cuepoints>
+			<dfpvideo:stats totalViewCount=''/>
+			<dfpvideo:owner name="1048576"/>
+		</item>
+	
+		<item>
+			<guid isPermaLink='false'>urn:uuid:com.idg.media.50404</guid>
+			<pubDate>Thu, 02 Apr 2015 18:32:00 -0400</pubDate>
+			<title>World Tech Update – Microsoft Surface 3, Amazon’s Dash Button, NASA’s flying saucer</title>
+			<description>Microsoft goes after laptop diehards with the new Surface 3 tablet, Amazon wants you to restock household items with a push of its Dash Button and NASA&#039;s flying saucer lander takes a spin.</description>
+			<link>http://www.idg.tv/video/50404/world-tech-update-microsoft-surface-3-amazon-s-dash-button-nasa-s-flying-saucer.html</link>
+		
+			<media:group>
+			
+			
+			
+				<media:player url="http://players.brightcove.net/2669672615001/default_default/index.html?videoId=4150708989001" />
+		
+			
+				<media:thumbnail url="http://images.techhive.com/images/article/2015/04/wtu-templateimage-100577165-poster.jpg"/>
+			
+			
+		
+				<media:description>Microsoft goes after laptop diehards with the new Surface 3 tablet, Amazon wants you to restock household items with a push of its Dash Button and NASA&#039;s flying saucer lander takes a spin.</media:description>
+				<media:keywords></media:keywords>
+				<media:title type='plain'>World Tech Update – Microsoft Surface 3, Amazon’s Dash Button, NASA’s flying saucer</media:title>
+			</media:group>
+			<dfpvideo:contentID>50404</dfpvideo:contentID>
+			<dfpvideo:thirdPartyContentId cms='brightcove' id='4150708989001'/>
+			<dfpvideo:monetizable>true</dfpvideo:monetizable>
+			<dfpvideo:cuepoints>0</dfpvideo:cuepoints>
+			<dfpvideo:stats totalViewCount=''/>
+			<dfpvideo:owner name="1048576"/>
+		</item>
+	
+		<item>
+			<guid isPermaLink='false'>urn:uuid:com.idg.media.50323</guid>
+			<pubDate>Thu, 02 Apr 2015 04:00:00 -0400</pubDate>
+			<title>Samsung Galaxy S6 video review: A fantastic flagship </title>
+			<description>With a seriously improved industrial design and killer performance, the S6 is our favorite Samsung flagship ever.</description>
+			<link>http://www.greenbot.com/video/50323/samsung-galaxy-s6-video-review-a-fantastic-flagship.html</link>
+		
+			<media:group>
+			
+			
+			
+				<media:player url="http://players.brightcove.net/2669672615001/default_default/index.html?videoId=4148324242001" />
+		
+			
+				<media:thumbnail url="http://images.techhive.com/images/article/2015/04/samsung-galaxy-s6-100576943-poster.jpg"/>
+			
+			
+		
+				<media:description>With a seriously improved industrial design and killer performance, the S6 is our favorite Samsung flagship ever.</media:description>
+				<media:keywords>Samsung, Samsung Galaxy S6</media:keywords>
+				<media:title type='plain'>Samsung Galaxy S6 video review: A fantastic flagship </media:title>
+			</media:group>
+			<dfpvideo:contentID>50323</dfpvideo:contentID>
+			<dfpvideo:thirdPartyContentId cms='brightcove' id='4148324242001'/>
+			<dfpvideo:monetizable>true</dfpvideo:monetizable>
+			<dfpvideo:cuepoints>0</dfpvideo:cuepoints>
+			<dfpvideo:stats totalViewCount=''/>
+			<dfpvideo:owner name="32768"/>
+		</item>
+	
+		<item>
+			<guid isPermaLink='false'>urn:uuid:com.idg.media.50343</guid>
+			<pubDate>Wed, 01 Apr 2015 00:00:00 -0400</pubDate>
+			<title>Tactus Phorm</title>
+			<description>TKTKTK</description>
+			<link>http://www.greenbot.com/video/50343/tactus-phorm.html</link>
+		
+			<media:group>
+			
+			
+				<media:category>Phones</media:category>
+			
+			
+				<media:player url="http://players.brightcove.net/2669672615001/default_default/index.html?videoId=4148337253001" />
+		
+			
+				<media:thumbnail url="http://images.techhive.com/images/article/2015/04/phorm-still-1-100576944-poster.jpg"/>
+			
+			
+		
+				<media:description>TKTKTK</media:description>
+				<media:keywords></media:keywords>
+				<media:title type='plain'>Tactus Phorm</media:title>
+			</media:group>
+			<dfpvideo:contentID>50343</dfpvideo:contentID>
+			<dfpvideo:thirdPartyContentId cms='brightcove' id='4148337253001'/>
+			<dfpvideo:monetizable>true</dfpvideo:monetizable>
+			<dfpvideo:cuepoints>0</dfpvideo:cuepoints>
+			<dfpvideo:stats totalViewCount=''/>
+			<dfpvideo:owner name="32768"/>
+		</item>
+	
+		<item>
+			<guid isPermaLink='false'>urn:uuid:com.idg.media.50344</guid>
+			<pubDate>Tue, 31 Mar 2015 16:43:00 -0400</pubDate>
+			<title>Galaxy S6 features not found on iPhone 6</title>
+			<description>CIO.com&#039;s Al Sacco shows off some hardware and software features on the new Samsung Galaxy S6 that aren&#039;t available on the iPhone 6.</description>
+			<link>http://www.idg.tv/video/50344/galaxy-s6-features-not-found-on-iphone-6.html</link>
+		
+			<media:group>
+			
+			
+			
+				<media:player url="http://players.brightcove.net/2669672615001/default_default/index.html?videoId=4151880216001" />
+		
+			
+				<media:thumbnail url="http://images.techhive.com/images/article/2015/03/galaxys6features-100576241-poster.jpg"/>
+			
+			
+		
+				<media:description>CIO.com&#039;s Al Sacco shows off some hardware and software features on the new Samsung Galaxy S6 that aren&#039;t available on the iPhone 6.</media:description>
+				<media:keywords></media:keywords>
+				<media:title type='plain'>Galaxy S6 features not found on iPhone 6</media:title>
+			</media:group>
+			<dfpvideo:contentID>50344</dfpvideo:contentID>
+			<dfpvideo:thirdPartyContentId cms='brightcove' id='4151880216001'/>
+			<dfpvideo:monetizable>true</dfpvideo:monetizable>
+			<dfpvideo:cuepoints>0</dfpvideo:cuepoints>
+			<dfpvideo:stats totalViewCount=''/>
+			<dfpvideo:owner name="1048576"/>
+		</item>
+	
+		<item>
+			<guid isPermaLink='false'>urn:uuid:com.idg.media.50284</guid>
+			<pubDate>Tue, 31 Mar 2015 14:56:00 -0400</pubDate>
+			<title>HTC One M9 video review</title>
+			<description>HTC&#039;s latest flagship phone has a whole lot in common with its last flagship phone. Too much.</description>
+			<link>http://www.greenbot.com/video/50284/htc-one-m9-video-review.html</link>
+		
+			<media:group>
+			
+			
+				<media:category>Phones</media:category>
+			
+			
+			
+			
+				<media:player url="http://players.brightcove.net/2669672615001/default_default/index.html?videoId=4145503348001" />
+		
+			
+				<media:thumbnail url="http://images.techhive.com/images/article/2015/03/htc-one-m9-100576523-poster.jpg"/>
+			
+			
+		
+				<media:description>HTC&#039;s latest flagship phone has a whole lot in common with its last flagship phone. Too much.</media:description>
+				<media:keywords></media:keywords>
+				<media:title type='plain'>HTC One M9 video review</media:title>
+			</media:group>
+			<dfpvideo:contentID>50284</dfpvideo:contentID>
+			<dfpvideo:thirdPartyContentId cms='brightcove' id='4145503348001'/>
+			<dfpvideo:monetizable>true</dfpvideo:monetizable>
+			<dfpvideo:cuepoints>0</dfpvideo:cuepoints>
+			<dfpvideo:stats totalViewCount=''/>
+			<dfpvideo:owner name="32768"/>
+		</item>
+	
+		<item>
+			<guid isPermaLink='false'>urn:uuid:com.idg.media.50025</guid>
+			<pubDate>Tue, 31 Mar 2015 04:18:00 -0400</pubDate>
+			<title>Foodini prints your meals: Earl Grey, hot!</title>
+			<description>Barcelona startup, Foodini is mashing up 3D printers with food. Put your recipe inside its tube, and it prints out elaborate shapes.</description>
+			<link>http://www.idg.tv/video/50025/foodini-prints-your-meals-earl-grey-hot.html</link>
+		
+			<media:group>
+			
+			
+				<media:category>The Smart Home</media:category>
+			
+			
+			
+				<media:category>Printers</media:category>
+			
+			
+				<media:player url="http://players.brightcove.net/2669672615001/default_default/index.html?videoId=4139143500001" />
+		
+			
+				<media:thumbnail url="http://images.techhive.com/images/article/2015/03/foodini_thumbnail-100575987-poster.jpg"/>
+			
+			
+		
+				<media:description>Barcelona startup, Foodini is mashing up 3D printers with food. Put your recipe inside its tube, and it prints out elaborate shapes.</media:description>
+				<media:keywords></media:keywords>
+				<media:title type='plain'>Foodini prints your meals: Earl Grey, hot!</media:title>
+			</media:group>
+			<dfpvideo:contentID>50025</dfpvideo:contentID>
+			<dfpvideo:thirdPartyContentId cms='brightcove' id='4139143500001'/>
+			<dfpvideo:monetizable>true</dfpvideo:monetizable>
+			<dfpvideo:cuepoints>0</dfpvideo:cuepoints>
+			<dfpvideo:stats totalViewCount=''/>
+			<dfpvideo:owner name="1048576"/>
+		</item>
+	
+	</channel>
+</rss>

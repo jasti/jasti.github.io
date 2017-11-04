@@ -1,5 +1,5 @@
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /posts/:title
 name: Vamsee Jasti
 blog_name: Sent from my ipod

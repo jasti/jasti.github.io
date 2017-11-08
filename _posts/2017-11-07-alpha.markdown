@@ -3,6 +3,7 @@ layout: post
 title: Why treating animals well today may save you tomorrow
 category: posts
 tags : Tech
+
 ---
 
 Have you heard of [Alpha Go Zero](https://medium.com/intuitionmachine/the-strange-loop-in-alphago-zeros-self-play-6e3274fcdd9f) (AGZ) yet? It's hands down better than the regular Alpha Go which beat the best Alpha Go human player a year ago. The most fascinating thing about the achievement is its ability to self learn based on logic. AGZ is at a degree where a human is unable to reverse engineer why it made a move. 
@@ -17,7 +18,7 @@ So here is my main argument, we humans decide to treat a large majority of the a
 
 Some might defend that poultry isn't close to the top of the food chain or nearly have as much intelligence, so they deserve it. Unfortunately, humans could be in the exact scenario as poultry in a few decades because of the machine's ability to become intelligent recursively. 
 
-What if we changed our way today and all of a sudden we begin treating our animals nicely. Is it possible that our training data we are feeding to these machines over a long enough period of time would set a new precedent to treat those lower in the food chain more thoughtfully and as a result, in a few decades, although subservient, we'll co-exist with homo machines?
+What if we changed our way today and we begin treating our animals like we want to be treated ourselves? If yes, is it possible that our training data we are feeding to these machines over a long enough period of time would set a new precedent to treat those lower in the food chain more thoughtfully and as a result, in a few decades, although subservient, we'll co-exist with Homo Machines?
 
 Given how Homo Machines are fundamentally based on rationale and logic, think it's a bet worth a gander.
    

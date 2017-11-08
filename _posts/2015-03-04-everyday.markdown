@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Single Rule To Fitness
+title: One simple rule to fitness
 category: posts
 tags : Tech
 ---

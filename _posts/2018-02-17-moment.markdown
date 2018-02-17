@@ -20,6 +20,7 @@ If not this, what else?
 <br>
 <center>
 <img src="/images/blog/moment/amsterdam.jpg" width="400" height="400"/>
+<br>
 <i> A cold february morning in Amsterdam</i>
 </center> 
 

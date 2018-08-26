@@ -3,14 +3,11 @@ layout: post
 title: My New York Secrets Are Yours Now
 category: posts
 ---
-There are many things I hate about New York but there are about twice the number of the things that I love about it. Here are a collections of things I tell people to do, eat and drink. 
-
-Veers vegan/ vegetrian for the most part. 
+There are many things I hate about New York but there are about twice the number of the things that I love about it. Here are a collections of things I tell people to do, eat and drink. Veers vegan/ vegetrian for the most part. 
 
 So here they are, my biggest hits:
  
 <h2>Do</h2>
-
 
 Central Park| Run the bridal path or just anywhere<br>
 Walk the Highline| Most beautiful in the spring or fall<br>
@@ -20,10 +17,11 @@ Williamsburg, Brooklyn| Lot of cool little places in and around Bedford Ave<br>
 Walk the Brooklyn Bridge| Ask for the ice-cream factory on the Brooklyn side<br>
 Sleep No More| A moving play set in a warehouse that you walk around<br>
 Gallow Green| A spooky rooftop bar with frequent visits by the casts of Sleep No More<br>
-Google Chelsea Office Rooftop| Find a Google buddy who works at Google <br>
+Google Office Rooftop| Find a Google buddy who works at Google<br>
 
 
 <h2>Eat</h2>
+
 Hangawi| Korean vegan food with unbelievable ambience <br>
 Beyond Sushi| Best vegan sushi.<br>
 Pio pio| Peruvian Chicken. Nandos bites this place's dust<br>
@@ -36,8 +34,9 @@ Sigiri| If you've never had Srilankan, just go. Order the Lamprais.<br>
 Kottu House| If you liked Sigiri, go here for the Kottu. Say hi to Chaz.<br>
 
 <h2>Drink</h2>
+
 Amor y Amargo| A Bitters Tasting Room<br>
-Greenpoint Brewery| They experiment about 300 beers a year <br>
+Greenpoint Brewery| They experiment about 300 beers a year<br>
 230 5th Ave| Expensive, touristy but also probably the best rooftop bar in the city<br>
 The Raines Law Room | Probably the best prohibition setting bar in NYC with solid cocktails<br>
 Chaan tea house| A place to wind down with a book or meet friends for tea<br>
@@ -49,6 +48,7 @@ Mud Truck on Astor Place| Coffee (Not always around -It's a truck, what do you e
 Round K| Murakami would go here for coffee <br>
 
 <h2>End on a sweet note</h2>
+
 Morgenstern's Icecream| The temperature they serve the icecream at is perfect<br>
 Lady M| The mille crepe is something like you have never tasted before.Can't go wrong with chocolate or vanilla<br>
 Levain| Best cookie in the world (Dark Chocolate peanut butter)<br>

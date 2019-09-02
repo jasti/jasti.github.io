@@ -1,56 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>jasti.github.io</loc>
+        <loc>http://localhost:4000</loc>
     </url>
     
     
     <url>
-        <loc>jasti.github.io/posts/meditate</loc>
+        <loc>http://localhost:4000/posts/paternity</loc>
     </url>
     
     <url>
-        <loc>jasti.github.io/posts/analysis</loc>
+        <loc>http://localhost:4000/posts/hawaii</loc>
     </url>
     
     <url>
-        <loc>jasti.github.io/posts/bigo</loc>
+        <loc>http://localhost:4000/posts/present</loc>
     </url>
     
     <url>
-        <loc>jasti.github.io/posts/consulting</loc>
+        <loc>http://localhost:4000/posts/stories</loc>
     </url>
     
     <url>
-        <loc>jasti.github.io/posts/scraping</loc>
+        <loc>http://localhost:4000/posts/moment</loc>
     </url>
     
     <url>
-        <loc>jasti.github.io/posts/blog</loc>
+        <loc>http://localhost:4000/posts/ultra</loc>
     </url>
     
     <url>
-        <loc>jasti.github.io/posts/empathy</loc>
+        <loc>http://localhost:4000/posts/alpha</loc>
     </url>
     
     <url>
-        <loc>jasti.github.io/posts/webserver</loc>
+        <loc>http://localhost:4000/posts/thirty</loc>
     </url>
     
     <url>
-        <loc>jasti.github.io/posts/stock</loc>
+        <loc>http://localhost:4000/posts/everyday</loc>
     </url>
     
     <url>
-        <loc>jasti.github.io/posts/block</loc>
+        <loc>http://localhost:4000/posts/learning</loc>
     </url>
     
     <url>
-        <loc>jasti.github.io/posts/ny</loc>
+        <loc>http://localhost:4000/posts/hike</loc>
     </url>
     
     <url>
-        <loc>jasti.github.io/posts/marathon</loc>
+        <loc>http://localhost:4000/posts/josie</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/posts/causation</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/posts/bigdata</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/posts/beats</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/posts/solutions</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/posts/austin</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/posts/robot</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/posts/meditate</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/posts/analysis</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/posts/bigo</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/posts/consulting</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/posts/scraping</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/posts/blog</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/posts/empathy</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/posts/webserver</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/posts/stock</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/posts/block</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/posts/ny</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/posts/marathon</loc>
     </url>
     
 </urlset>

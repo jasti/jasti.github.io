@@ -44,7 +44,7 @@ For my friends who don’t have kids, there have been a few times when I sounded
 I feel like raising a child puts parents into a 24/7 psychedelic state of awe and wonder, making you acknowledge the daily miracles in the most banal of beings - like when your baby smiles at you.  
 
 <center>
-<img src="/images/blog/paternity/miles_6mo.jpg" width="400" height="600"/>
+<img src="/images/blog/paternity/miles_6mo.JPG" width="400" height="600"/>
 <br>
 </center> 
 <br>

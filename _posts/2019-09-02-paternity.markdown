@@ -6,6 +6,13 @@ tags : Parenthood
 
 ---
 
+<center>
+<img src="/images/blog/paternity/sleep_log.png" width="800" height="800"/>
+<br>
+<i> Working on maintaining the streak</i>
+</center> 
+<br>
+
 Before our son, Miles, was born I didn’t have a strong opinion about wanting to have kids. Not that I was against it but I didn’t see a strong reason to voluntarily give up a life I dearly enjoyed for an unknown quantity. This feels preposterous in retrospect. But so do most things that shoulder the weight of their consequence. 
 
 The last two months have been a mind-bending experience. For once, I was  in the 1%. The 1% of fathers that get to be the primary caregiver for more than 2 months with their new born. I wish everyone has this opportunity because it was nothing like I had imagined it when I started. 

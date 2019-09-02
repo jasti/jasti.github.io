@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Art of Hiking
+title: Hiking in Hawaii
 category: posts
 tags : Personal
 ---

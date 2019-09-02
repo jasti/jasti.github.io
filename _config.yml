@@ -1,13 +1,10 @@
-markdown: rdiscount
-highlighter: pygments
+markdown: kramdown
+highlighter: rouge
 permalink: /posts/:title
-rdiscount:
-  extensions: [smart]
-
 name: Vamsee Jasti
 blog_name: Sent from my ipod
 url: jasti.github.io
-description: Thoughts, Nerdery & Experiments
+description: Ramblings & Nerdery
 twitter: vamseejasti
 github: jasti
 tags:

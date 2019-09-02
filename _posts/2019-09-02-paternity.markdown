@@ -13,7 +13,7 @@ tags : Parenthood
 </center> 
 <br>
 
-Before our son, Miles, was born I didn’t have a strong opinion about wanting to have kids. Not that I was against it but I didn’t see a strong reason to voluntarily give up a life I dearly enjoyed for an unknown quantity. This feels preposterous in retrospect. But so do most things that shoulder the weight of their consequence. 
+Before Miles, our son, was born I didn’t have a strong opinion about wanting to have kids. Not that I was against it but I didn’t see a strong reason to voluntarily give up a life I dearly enjoyed for an unknown quantity. This feels preposterous in retrospect. But so do most things that shoulder the weight of their consequence. 
 
 The last two months have been a mind-bending experience. For once, I was  in the 1%. The 1% of fathers that get to be the primary caregiver for more than 2 months with their new born. I wish everyone has this opportunity because it was nothing like I had imagined it when I started. 
 
@@ -36,7 +36,7 @@ I’m grateful for the experience because it has helped me:
 
 - empathize that money doesn’t solve all problems but it solves many parenting problems. It was the best crystallization of how poverty begets poverty. It’s difficult to work hard & take professional risks when stressed about being able to afford buying diapers or formula.
 
-- realize that days go by in a blink while giving care to newborns. I had plans to write everyday, code a hobby project, work on gymnastics skills and be the ultra productive when Miles napped. But I didn’t do any of those things.  All I wanted to do was sit with a cup of coffee enjoy doing nothing, recovering from the energy I had to bring entertaining the baby when he was up. Or at best prep the house/ cook healthy meals for our family during his naps.  
+- realize that days go by in a blink while giving care to newborns. I had plans to write everyday, code a hobby project, work on gymnastics skills and be ultra productive while Miles napped. But I didn’t do any of those things. All I wanted to do was sit with a cup of coffee enjoy doing nothing, recovering from the energy I had to bring entertaining the baby when he was up. Or at best prep the house/ cook healthy meals for our family during his naps.  
 
 - understand that it’s possible to seek joy without being Productive or creating something tangible. By the end of  it, the only thing I had to show for was a healthy, (mostly) happy child that was 2 months older. It took a few weeks to be okay with (and even proud of) this. 
 

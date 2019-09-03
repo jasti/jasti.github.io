@@ -28,7 +28,7 @@ I’ve run races that lasted more than 18 hours with a 40 pound rucksack on my b
 </center> 
 <br>
 
-I’m grateful for the experience because it has helped me: 
+Having said that, I’m grateful for the experience because it has helped me: 
 
 - get a sense of what my partner went through during her maternity leave. The loneliness, boredom, monotony and the lack of any positive feedback from the baby. 
 
@@ -46,7 +46,7 @@ I think raising a newborn is a lot of joy and little fun, bubble wrapped in a co
 
 Every decision can be like answering a multiple choice test that you’ll never know the answers to. But maybe that’s actually what makes the whole thing rewarding. There are no right answers because everybody gets different questions and the answers are subjective. There are no rules to this thing and most parents jump off the cliff and seem to figure out the parachute on the way down. "Mistakes" will happen. Some more consequential than others. I'll never forget how bad I felt when I let him bang his head on the side of a table. There was no way I could have prevented it but it's still hard to let go of what happened. 
 
-For my friends who don’t have kids, there have been a few times when I sounded like a lunatic describing the joy in raising a child. I don’t sound far off from someone on a psychedelic trip talking to a sober crowd. On a trip, you could look at the most ordinary of things, like leaves dancing to the wind and realize the weight of all  things that had to fall in place in the multiverse for the observer to witness that miracle. Most people, including me, brush off such experiences 100s of times without acknowledgement. Can it be a miracle if it’s commonplace? <br>
+For my friends who don’t have kids, there have been a few times when I sounded like a lunatic describing the joy in raising a child. I don’t sound far off from someone on a psychedelic trip talking to a sober crowd. On a trip, you could look at the most ordinary of things, like leaves dancing to the wind and realize the weight of all  things that had to fall in place in the multiverse for the observer to witness that miracle. Most people, including me, brush off such experiences 100s of times without acknowledgement. Can you call it a miracle if it’s commonplace? <br>
 
 I feel like raising a child puts parents into a 24/7 psychedelic state of awe and wonder, making you acknowledge the daily miracles in the most banal of beings - like when your baby smiles at you.  
 
@@ -58,4 +58,5 @@ I feel like raising a child puts parents into a 24/7 psychedelic state of awe an
 
 That’s it for now from me as I enthusiastically tie my laces to get back to work. I'm grateful for being able to bond with him so deeply. I’ll miss him but I know I’ll cherish the precious hours I’ll get to spend with him for the next 17.5 years building on top of our relationship.
 <br>
+
 I hope you’ll tell me more about what I don’t know about parenting. 

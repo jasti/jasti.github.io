@@ -158,7 +158,7 @@ a {
 
 .content h3 {
 	color: #777;
-	font-size: 25px;
+	font-size: 18px;
 	padding-bottom: 5px;
 	margin-bottom: 10px;
 }
@@ -195,8 +195,8 @@ a {
 
 
 .content li {
-	margin-bottom: 10px;
-	line-height: 1.4em;
+	margin-bottom: 4px;
+	line-height: 0.4em;
 }
 
 .content blockquote {

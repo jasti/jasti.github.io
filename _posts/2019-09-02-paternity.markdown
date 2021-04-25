@@ -9,7 +9,7 @@ tags : Parenthood
 <center>
 <img src="/images/blog/paternity/sleep_log.png" width="800" height="800"/>
 <br>
-<i> Working on maintaining the streak</i>  
+<i> A different kind of streak</i>  
 </center> 
 <br>
 

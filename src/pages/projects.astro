@@ -1,0 +1,72 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Projects">
+  <section class="content">
+    <h1>Sent from my ipod</h1>
+    <h4>A list of my favorite side projects</h4>
+
+    <h2>Data Analysis Of Crossfit.com Workouts</h2>
+    <p>
+      Written in Python, uses <a href="https://github.com/jasti/CrossfitScraper">scrapped data</a> from the crossfit.com website(from year 2002 to 2013) to perform exploratory data analsis. Uses Pandas for data munging. Google Refine for data manipulation and matplotlib for plotting.
+
+      <br>
+
+      <center>
+        <img src="/images/projects/crossfit.png"/>
+      </center>
+
+      You can find the source to the project <a href="https://github.com/jasti/CrossfitAnalyser">here</a> or choose to read about it <a href="/posts/analysis/">here</a>.
+    </p>
+    <hr width="100">
+
+    <h2>Stock Portfolio Viewer</h2>
+    <p>
+      A C# Windows thick client that is useful for monitoring your own portfolio holdings. Simply edit the portfolio.xml file with the stocks you hold and the initial price you bought them at and run the solution. Real time equity data price feed from Yahoo has been implemented and also other performance ( Daily and Cost Basis) oriented metrics associated with your portfolio.
+      <br>
+
+      Makes it easier to just have this app open if you are on windows, instead of having to open a web browser each time you want to check your stock performance.
+
+      <br>
+      The UI is not exactly a piece of art, but gets the job done!
+      <center>
+        <img src="/images/projects/screenshot.png"/>
+      </center>
+
+      Find the source <a href="https://github.com/jasti/CrossfitScraper">here</a>. <br>
+    </p>
+    <hr width="100">
+
+    <h2>Crossfit Scraper</h2>
+    <p>
+      A Python parser that iteratively scrapes the WODs on Crossfit.com since 2002 and saves them to a tab separated file. Uses BeautifulSoup and Pandas. <br>
+
+      Find the source for this on my <a href="https://github.com/jasti/CrossfitScraper">Github account</a>. <br>
+      Find an IPython notebook with the code <a href="https://github.com/jasti/CrossfitScraper/blob/master/NBCrossfitScraper.ipynb">here</a>.<br>
+
+      Details in a post<a href="/posts/scraping"> here</a>.
+    </p>
+    <hr width="100">
+
+    <h2>Stout</h2>
+    <p>A stripped out Jekyll template of my site which allows anyone to fork, clone, customize and host their own blogging site on Github.</p>
+
+    You can find the source to the project <a href="https://github.com/jasti/stout">here</a> or choose to read about it <a href="/posts/blog">here</a>.
+    <center>
+      <img src="/images/projects/homeshot.png"/>
+    </center>
+    <hr width="100">
+
+    <h2>Stock Predictor</h2>
+    <p>
+      A project written in python that listens on Reuters via a twitter handle and screens the articles for positively or negatively correlated news for stocks you are interested in. Based on the sentiment analysis of the news article, the program will suggest to take a direction on the stock.
+    </p>
+    <p>
+      For example, if Reuters publishes a leak about Apple launching the iWatch and what a huge success it will become, the app will calculate a positive sentiment and mark it closer to 1. Depending on the exact sentiment score, the app will recommend buying a large number of stocks when the number gets closer to 1 and the app will recommend selling the stocks when the sentiment score is closer to 0. i.e shorting the stock.
+    </p>
+
+    You can find the source to the project <a href="https://github.com/jasti/Stock-Predictor">here</a>.
+    <hr width="100">
+  </section>
+</BaseLayout>

@@ -1,0 +1,83 @@
+---
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const { title, description } = Astro.props;
+const siteTitle = "Vamsee Jasti";
+const siteDescription = description || "Ramblings & Nerdery";
+const fullTitle = title ? `${title} – ${siteTitle}` : siteTitle;
+---
+
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <title>{fullTitle}</title>
+  <meta name="author" content={siteTitle} />
+  <meta name="description" content={siteDescription} />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <link rel="alternate" type="application/rss+xml" href="/rss.xml" />
+  <link rel="shortcut icon" type="image/png" href="/images/favicon.ico"/>
+  <link rel="stylesheet" href="/css/fontawesome.min.css" type="text/css" media="screen, projection" />
+  <link rel="stylesheet" href="/css/base.css" type="text/css" media="screen, projection" />
+  <link rel="stylesheet" href="/css/pygments.css" type="text/css" />
+  <link media="only screen and (max-device-width: 480px)" href="/css/mobile.css" type="text/css" rel="stylesheet" />
+  <link media="only screen and (device-width: 768px)" href="/css/mobile.css" type="text/css" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css?family=Oxygen:300,400,700" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Lobster:400" rel="stylesheet" type="text/css">
+
+  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script type="text/javascript" src="/js/application.js"></script>
+
+  <!-- Google Analytics Code -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-50373579-1', 'vamseejasti.com');
+    ga('send', 'pageview');
+  </script>
+</head>
+
+<body>
+  <section class="sidebar">
+    <a href="/">
+      <img src="/images/headshot.jpeg" height="100" width="100" class="avatar" />
+    </a>
+
+    <section class="name">
+      <a href="/">
+        <span id="fname">Vamsee</span>
+        <span id="lname">Jasti</span>
+      </a>
+    </section>
+
+    <section class="meta">
+      <a href="https://twitter.com/vamseejasti" target="_blank"><i class="icon icon-twitter"></i></a>
+      <a href="https://github.com/jasti" target="_blank"><i class="icon icon-github"></i></a>
+      <a href="https://www.linkedin.com/pub/vamsee-jasti/8/72/b58" target="_blank"><i class="icon icon-linkedin"></i></a>
+      <a href="mailto:vamseej@gmail.com?Subject=Hi%20from%20the%20blog" target="_top"><i class="icon icon-envelope"></i></a>
+      <a href="/rss.xml" target="_blank"><i class="icon-rss"></i></a>
+    </section>
+
+    <section class="sections">
+      <ul>
+        <li><a href="/about">About Me</a></li>
+        <li><a href="/">Posts</a></li>
+        <li><a href="/projects">Side Projects</a></li>
+        <li><a href="/books">Recent Book Reads</a></li>
+        <li><a href="https://twitter.com/vamseejasti" class="twitter-follow-button" data-show-count="false">Follow @vamseejasti</a></li>
+      </ul>
+    </section>
+  </section>
+
+  <slot />
+</body>
+</html>
